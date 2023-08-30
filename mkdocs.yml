@@ -1,1 +1,3 @@
 site_name: Impact4c Documentation
+theme:
+  name: material
