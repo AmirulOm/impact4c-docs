@@ -1,4 +1,7 @@
-# Welcome to MkDocs
+# Selamat datang ke dokumentasi Impact4c
+
+Website ini dokumentasi teknikal untuk menggunakan system Impact4c
+
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
