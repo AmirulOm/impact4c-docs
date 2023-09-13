@@ -23,8 +23,8 @@ theme:
         name: Switch to system preference
   features:
     - navigation.instant
-  logo: C:/Users/Alienware 13 R3/Desktop/NEW PHASE 3 QUOTATION 2 OGOS 2023/PROGRESS/impact4c-docs/site/assets/logo.png
-  favicon: C:/Users/Alienware 13 R3/Desktop/NEW PHASE 3 QUOTATION 2 OGOS 2023/PROGRESS/impact4c-docs/site/assets/images/favicon.png
+  logo: img/logo.png
+  favicon: img/logo.png
   font:
     text: Roboto
   name: material
@@ -87,6 +87,8 @@ markdown_extensions:
   - abbr
   - attr_list
   - pymdownx.snippets
+  - attr_list
+  - md_in_html
 
 extra:
   consent:
@@ -107,6 +109,6 @@ extra:
       link: https://www.impact4c.my
 
 repo_url: https://github.com/AmirulOm/impact4c-docs
-repo_name: apa pun tarak
+repo_name: phybit
 
 
