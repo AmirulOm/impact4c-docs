@@ -1,0 +1,1 @@
+The Impact4c Developer Platform is updated frequently with new functionality and products to better suit your needs. We will be documenting all changes made to the platform’s products via this resource.

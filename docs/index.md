@@ -1,7 +1,3 @@
-# Selamat datang ke dokumentasi Impact4c
-hahahahah
-Website ini dokumentasi teknikal untuk menggunakan system Impact4c
+# Introduction
 
-
-# testing
-## test
+Another project is in progress called **Impact4c** a Website application for income and expenses tracking which started in October 2021.
