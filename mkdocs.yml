@@ -28,11 +28,7 @@ theme:
   font:
     text: Roboto
   name: material
-  palette:
-    scheme: slate
-    primary: indigo
    
-    theme:
   icon:
     annotation: material/arrow-right-circle 
     note: octicons/tag-16
@@ -53,53 +49,32 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.superfences
-
-markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-
-
-markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
-markdown_extensions:
   - tables
-
-markdown_extensions:
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-      :material-brightness-7:
-      :material-brightness-4:
-
-markdown_extensions:
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-
-markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
-markdown_extensions:
   - tables
-
-markdown_extensions:
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-
-markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences

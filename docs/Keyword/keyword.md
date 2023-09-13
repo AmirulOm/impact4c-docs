@@ -12,14 +12,13 @@
 
 ``` mermaid
 graph LR
-  A[VS CODE] --> B[Git Commit/sync/push];
-  A[VS CODE] --> C[Git Commit/mkdocs-gh deploy];
-  A[VS CODE] --> D[mkdocs serve];
-  D ---> [Full render of website locally];
-
-
- 
+  A[Start] --> B{Error?};
+  B -->|Yes| C[Hmm...];
+  C --> D[Debug];
+  D --> B;
+  B ---->|No| E[Yay!];
 ```
+
 
 Text can be {--deleted--} and replacement text {++added++}. This can also be
 combined into {~~one~>a single~~} operation. {==Highlighting==} is also
