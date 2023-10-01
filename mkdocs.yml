@@ -1,5 +1,27 @@
-site_name: Impact4c Developer Platform
+site_name: Dokumentasi IMPACT4C
+
+nav:
+  - Utama: index.md
+  - Panduan asas: asas.md
+  - Pengguna: 
+    - Jenis pengguna: jenis_pengguna.md
+    - Cipta akaun: cipta_akaun.md
+    - Cipta pukal perserta : pukal_perserta.md
+  - Organisasi: 
+    - Cipta organisasi: cipta_organisasi.md
+    - Seting organisasi: seting_organisasi.md
+  - Program: 
+    - Cipta program: cipta_program.md
+  - Projek: 
+    - Cipta projek: cipta_projek.md
+  - Peserta: peserta.md
+  - Akses fitur: akses.md
+  - Laporan: laporan.md
+  - Masalah lazim: masalah.md
+
+
 theme:
+  logo: impact4c-logo-white.svg
   palette:
 
     # Palette toggle for automatic mode
@@ -23,12 +45,11 @@ theme:
         name: Switch to system preference
   features:
     - navigation.instant
-  logo: img/logo.png
-  favicon: img/logo.png
+  logo: img/impact4c-logo-white.svg
+  favicon: img/impact4c-favicon.svg
   font:
     text: Roboto
   name: material
-   
   icon:
     annotation: material/arrow-right-circle 
     note: octicons/tag-16
